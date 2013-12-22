@@ -4,7 +4,6 @@
 */
 
 var express = require('express');
-var http = require('http');
 var spawn = require('child_process').spawn;
 var fs = require('fs');
 
